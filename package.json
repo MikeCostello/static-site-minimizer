@@ -2,7 +2,7 @@
   "name": "static-site-minimizer",
   "version": "1.0.0",
   "description": "Uses Gulp to minimize static assets",
-  "devDependencies": {
+  "dependencies": {
     "gulp": "^3.8.11",
     "gulp-cached": "^1.0.4",
     "gulp-htmlmin": "^1.1.1",
